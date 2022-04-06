@@ -1,5 +1,5 @@
-milk
-banana
-coko
-water
-butter
+milk x 2
+banana x 1
+coko x 1
+water x 3
+butter x 2
