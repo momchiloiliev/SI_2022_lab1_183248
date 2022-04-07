@@ -2,4 +2,4 @@ milk x 2
 banana x 3
 coko x 1
 water x 3
-butter x 2
+butter x 4
